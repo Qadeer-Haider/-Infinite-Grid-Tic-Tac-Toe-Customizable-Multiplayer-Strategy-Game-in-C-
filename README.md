@@ -83,7 +83,5 @@ Press Y for yes and N for No
 ```
 
 ## References
-
 - [Tic-Tac-Toe](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
-Feel free to customize and expand the project as per your requirements. Enjoy playing Tic-Tac-Toe!
